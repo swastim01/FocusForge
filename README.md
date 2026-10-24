@@ -91,7 +91,7 @@ FocusForge is designed to work without requiring a paid AI API or an API key for
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FocusForge.git
+git clone https://github.com/swastim01/FocusForge.git
 cd FocusForge
 ```
 
